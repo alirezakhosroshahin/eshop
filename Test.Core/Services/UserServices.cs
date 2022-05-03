@@ -192,15 +192,7 @@ namespace Test.Core.Services
                 DateTime = w.CreateDate
             }).ToList();
         }
-
-       
-
-        public int AddWallet(Wallet wallet)
-        {
-            _context.Wallets.Add(wallet);
-            _context.SaveChanges();
-            return wallet.WalletId;
-        }
+        
 
         public UserForAdminViewModel GetUser(int pageId = 1, string filterEmail = "", string filterUserName = "")
         {
@@ -322,6 +314,41 @@ namespace Test.Core.Services
                 }
             }
             _context.Users.Update(user);
+            _context.SaveChanges();
+        }
+        
+
+        
+
+        public int ChargeWallet(string userName, int amount, string description, bool isPay = false)
+        {
+            Wallet wallet=new Wallet()
+            {
+                Amount = amount,
+                CreateDate = DateTime.Now,
+                Description = description,
+                IsPay = isPay,
+                TypeId = 1,
+                UserId = GetUserIdByUserName(userName)
+            };
+            return AddWallet(wallet);
+        }
+
+        public int AddWallet(Wallet wallet)
+        {
+            _context.Wallets.Add(wallet);
+            _context.SaveChanges();
+            return wallet.WalletId;
+        }
+
+        public Wallet GetWalletByWalletId(int walletId)
+        {
+            return _context.Wallets.Find(walletId);
+        }
+
+        public void UpdateWallet(Wallet wallet)
+        {
+            _context.Wallets.Update(wallet);
             _context.SaveChanges();
         }
     }

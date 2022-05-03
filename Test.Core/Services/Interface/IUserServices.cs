@@ -38,6 +38,11 @@ namespace Test.Core.Services.Interface
         int BalanceUserWallet(string userName);
         List<WalletViewModel> GetWalletUser(string userName);
         int AddWallet(Wallet wallet);
+        int ChargeWallet(string userName, int amount,string description,bool isPay=false);
+        Wallet GetWalletByWalletId(int walletId);
+        void UpdateWallet(Wallet wallet);
+
+      
         #endregion
 
         #region Admin Panel

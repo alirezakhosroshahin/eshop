@@ -3614,3 +3614,15 @@ D:\3. porject\hashemi\Education - core5\Test\obj\Debug\net5.0\Test.dll
 D:\3. porject\hashemi\Education - core5\Test\obj\Debug\net5.0\ref\Test.dll
 D:\3. porject\hashemi\Education - core5\Test\obj\Debug\net5.0\Test.pdb
 D:\3. porject\hashemi\Education - core5\Test\obj\Debug\net5.0\Test.genruntimeconfig.cache
+D:\3. porject\hashemi\Education - core5\Test\bin\Debug\net5.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\3. porject\hashemi\Education - core5\Test\bin\Debug\net5.0\Microsoft.VisualBasic.dll
+D:\3. porject\hashemi\Education - core5\Test\bin\Debug\net5.0\ZarinpalSandbox.dll
+D:\3. porject\hashemi\Education - core5\Test\bin\Debug\net5.0\runtimes\debian-x64\native\libuv.so
+D:\3. porject\hashemi\Education - core5\Test\bin\Debug\net5.0\runtimes\fedora-x64\native\libuv.so
+D:\3. porject\hashemi\Education - core5\Test\bin\Debug\net5.0\runtimes\opensuse-x64\native\libuv.so
+D:\3. porject\hashemi\Education - core5\Test\bin\Debug\net5.0\runtimes\osx\native\libuv.dylib
+D:\3. porject\hashemi\Education - core5\Test\bin\Debug\net5.0\runtimes\rhel-x64\native\libuv.so
+D:\3. porject\hashemi\Education - core5\Test\bin\Debug\net5.0\runtimes\win7-arm\native\libuv.dll
+D:\3. porject\hashemi\Education - core5\Test\bin\Debug\net5.0\runtimes\win7-x64\native\libuv.dll
+D:\3. porject\hashemi\Education - core5\Test\bin\Debug\net5.0\runtimes\win7-x86\native\libuv.dll
+D:\3. porject\hashemi\Education - core5\Test\obj\Debug\net5.0\Razor\Views\Home\onlinePayment.cshtml.g.cs

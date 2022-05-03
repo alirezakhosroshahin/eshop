@@ -9,22 +9,19 @@ namespace Test.Controller
     public class HomeController : Microsoft.AspNetCore.Mvc.Controller
     {
         private ICourseService _courseService;
-        public HomeController(ICourseService courseService)
+        private IUserServices _userServices;
+
+        public HomeController(ICourseService courseService, IUserServices userServices)
         {
             _courseService = courseService;
+            _userServices = userServices;
         }
-
+        
         public IActionResult Index()
         {
             return View(_courseService.GetAllCourse());
         }
 
-        [Authorize]
-        public string Test()
-        {
-            return "hello";
-        }
-        
         public IActionResult GetSubGroups(int id)
         {
             List<SelectListItem> list=new List<SelectListItem>()
@@ -33,6 +30,30 @@ namespace Test.Controller
             };
             list.AddRange(_courseService.GetSubGroupForManageCourse(id));
             return Json(new SelectList(list, "Value", "Text"));
+        }
+        
+        [Route("OnlinePayment/{id}")]
+        public IActionResult onlinePayment(int id) 
+        {
+            if (HttpContext.Request.Query["Status"] != "" &&
+                HttpContext.Request.Query["Status"].ToString().ToLower() == "ok"
+                && HttpContext.Request.Query["Authority"] != "")
+            {
+                string authority = HttpContext.Request.Query["Authority"];
+
+                var wallet = _userServices.GetWalletByWalletId(id);
+
+                var payment = new ZarinpalSandbox.Payment(wallet.Amount);
+                var res = payment.Verification(authority).Result;
+                if (res.Status == 100)
+                {
+                    ViewBag.code = res.RefId;
+                    ViewBag.IsSuccess = true;
+                    wallet.IsPay = true;
+                    _userServices.UpdateWallet(wallet);
+                }
+            }
+            return View();
         }
     }
 }
