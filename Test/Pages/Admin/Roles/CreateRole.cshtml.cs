@@ -1,11 +1,13 @@
 using System.Collections.Generic;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
+using Test.Core.Security;
 using Test.Core.Services.Interface;
 using Test.DataLayer.Entities.User;
 
 namespace Test.Pages.Admin.Roles
 {
+    [PermissionChecker(1005)]
     public class CreateRoleModel : PageModel
     {
         private IPermissionService _permissionService;

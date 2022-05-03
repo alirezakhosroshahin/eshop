@@ -5,10 +5,12 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Test.Core.DTOs;
+using Test.Core.Security;
 using Test.Core.Services.Interface;
 
 namespace Test.Pages.Admin.Users
 {
+    [PermissionChecker(9)]
     public class IndexModel : PageModel
     {
         private IUserServices _userServices;

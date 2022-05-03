@@ -2,10 +2,12 @@ using System.Collections.Generic;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Test.Core.DTOs;
+using Test.Core.Security;
 using Test.Core.Services.Interface;
 
 namespace Test.Pages.Admin.Users
 {
+    [PermissionChecker(11)]
     public class EditUserModel : PageModel
     {
         private IUserServices _userServices;
