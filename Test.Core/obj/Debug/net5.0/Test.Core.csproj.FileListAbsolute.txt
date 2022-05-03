@@ -1,0 +1,285 @@
+E:\3. porject\Rider\Test\Test.Core\bin\Debug\net5.0\Test.Core.deps.json
+E:\3. porject\Rider\Test\Test.Core\bin\Debug\net5.0\Test.Core.runtimeconfig.json
+E:\3. porject\Rider\Test\Test.Core\bin\Debug\net5.0\Test.Core.runtimeconfig.dev.json
+E:\3. porject\Rider\Test\Test.Core\bin\Debug\net5.0\Test.Core.dll
+E:\3. porject\Rider\Test\Test.Core\bin\Debug\net5.0\ref\Test.Core.dll
+E:\3. porject\Rider\Test\Test.Core\bin\Debug\net5.0\Test.Core.pdb
+E:\3. porject\Rider\Test\Test.Core\obj\Debug\net5.0\Test.Core.csproj.AssemblyReference.cache
+E:\3. porject\Rider\Test\Test.Core\obj\Debug\net5.0\Test.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\3. porject\Rider\Test\Test.Core\obj\Debug\net5.0\Test.Core.AssemblyInfoInputs.cache
+E:\3. porject\Rider\Test\Test.Core\obj\Debug\net5.0\Test.Core.AssemblyInfo.cs
+E:\3. porject\Rider\Test\Test.Core\obj\Debug\net5.0\Test.Core.csproj.CoreCompileInputs.cache
+E:\3. porject\Rider\Test\Test.Core\obj\Debug\net5.0\Test.Core.dll
+E:\3. porject\Rider\Test\Test.Core\obj\Debug\net5.0\ref\Test.Core.dll
+E:\3. porject\Rider\Test\Test.Core\obj\Debug\net5.0\Test.Core.pdb
+E:\3. porject\Rider\Test\Test.Core\obj\Debug\net5.0\Test.Core.genruntimeconfig.cache
+E:\3. porject\Eshop - core 3 - Toplaern\first template of eshop - Copy\Test.Core\bin\Debug\net5.0\Test.Core.deps.json
+E:\3. porject\Eshop - core 3 - Toplaern\first template of eshop - Copy\Test.Core\bin\Debug\net5.0\Test.Core.runtimeconfig.json
+E:\3. porject\Eshop - core 3 - Toplaern\first template of eshop - Copy\Test.Core\bin\Debug\net5.0\Test.Core.runtimeconfig.dev.json
+E:\3. porject\Eshop - core 3 - Toplaern\first template of eshop - Copy\Test.Core\bin\Debug\net5.0\Test.Core.dll
+E:\3. porject\Eshop - core 3 - Toplaern\first template of eshop - Copy\Test.Core\bin\Debug\net5.0\ref\Test.Core.dll
+E:\3. porject\Eshop - core 3 - Toplaern\first template of eshop - Copy\Test.Core\bin\Debug\net5.0\Test.Core.pdb
+E:\3. porject\Eshop - core 3 - Toplaern\first template of eshop - Copy\Test.Core\obj\Debug\net5.0\Test.Core.csproj.AssemblyReference.cache
+E:\3. porject\Eshop - core 3 - Toplaern\first template of eshop - Copy\Test.Core\obj\Debug\net5.0\Test.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\3. porject\Eshop - core 3 - Toplaern\first template of eshop - Copy\Test.Core\obj\Debug\net5.0\Test.Core.AssemblyInfoInputs.cache
+E:\3. porject\Eshop - core 3 - Toplaern\first template of eshop - Copy\Test.Core\obj\Debug\net5.0\Test.Core.AssemblyInfo.cs
+E:\3. porject\Eshop - core 3 - Toplaern\first template of eshop - Copy\Test.Core\obj\Debug\net5.0\Test.Core.csproj.CoreCompileInputs.cache
+E:\3. porject\Eshop - core 3 - Toplaern\first template of eshop - Copy\Test.Core\obj\Debug\net5.0\Test.Core.dll
+E:\3. porject\Eshop - core 3 - Toplaern\first template of eshop - Copy\Test.Core\obj\Debug\net5.0\ref\Test.Core.dll
+E:\3. porject\Eshop - core 3 - Toplaern\first template of eshop - Copy\Test.Core\obj\Debug\net5.0\Test.Core.pdb
+E:\3. porject\Eshop - core 3 - Toplaern\first template of eshop - Copy\Test.Core\obj\Debug\net5.0\Test.Core.genruntimeconfig.cache
+E:\3. porject\Eshop - core 3 - Toplaern\first template of eshop - Copy\Test.Core\bin\Debug\net5.0\Test.DataLayer.dll
+E:\3. porject\Eshop - core 3 - Toplaern\first template of eshop - Copy\Test.Core\bin\Debug\net5.0\Test.DataLayer.pdb
+E:\3. porject\Eshop - core 3 - Toplaern\first template of eshop - Copy\Test.Core\obj\Debug\net5.0\Test.Core.csproj.CopyComplete
+E:\3. porject\Eshop - core 3 - Toplaern\course - test 25\Test.Core\bin\Debug\net5.0\Test.Core.deps.json
+E:\3. porject\Eshop - core 3 - Toplaern\course - test 25\Test.Core\bin\Debug\net5.0\Test.Core.runtimeconfig.json
+E:\3. porject\Eshop - core 3 - Toplaern\course - test 25\Test.Core\bin\Debug\net5.0\Test.Core.runtimeconfig.dev.json
+E:\3. porject\Eshop - core 3 - Toplaern\course - test 25\Test.Core\bin\Debug\net5.0\Test.Core.dll
+E:\3. porject\Eshop - core 3 - Toplaern\course - test 25\Test.Core\bin\Debug\net5.0\ref\Test.Core.dll
+E:\3. porject\Eshop - core 3 - Toplaern\course - test 25\Test.Core\bin\Debug\net5.0\Test.Core.pdb
+E:\3. porject\Eshop - core 3 - Toplaern\course - test 25\Test.Core\bin\Debug\net5.0\Test.DataLayer.dll
+E:\3. porject\Eshop - core 3 - Toplaern\course - test 25\Test.Core\bin\Debug\net5.0\Test.DataLayer.pdb
+E:\3. porject\Eshop - core 3 - Toplaern\course - test 25\Test.Core\obj\Debug\net5.0\Test.Core.csproj.AssemblyReference.cache
+E:\3. porject\Eshop - core 3 - Toplaern\course - test 25\Test.Core\obj\Debug\net5.0\Test.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\3. porject\Eshop - core 3 - Toplaern\course - test 25\Test.Core\obj\Debug\net5.0\Test.Core.AssemblyInfoInputs.cache
+E:\3. porject\Eshop - core 3 - Toplaern\course - test 25\Test.Core\obj\Debug\net5.0\Test.Core.AssemblyInfo.cs
+E:\3. porject\Eshop - core 3 - Toplaern\course - test 25\Test.Core\obj\Debug\net5.0\Test.Core.csproj.CoreCompileInputs.cache
+E:\3. porject\Eshop - core 3 - Toplaern\course - test 25\Test.Core\obj\Debug\net5.0\Test.Core.csproj.CopyComplete
+E:\3. porject\Eshop - core 3 - Toplaern\course - test 25\Test.Core\obj\Debug\net5.0\Test.Core.dll
+E:\3. porject\Eshop - core 3 - Toplaern\course - test 25\Test.Core\obj\Debug\net5.0\ref\Test.Core.dll
+E:\3. porject\Eshop - core 3 - Toplaern\course - test 25\Test.Core\obj\Debug\net5.0\Test.Core.pdb
+E:\3. porject\Eshop - core 3 - Toplaern\course - test 25\Test.Core\obj\Debug\net5.0\Test.Core.genruntimeconfig.cache
+E:\3. porject\Eshop - core 3 - Toplaern\admin - delete user 21 - Copy\Test.Core\bin\Debug\net5.0\Test.Core.deps.json
+E:\3. porject\Eshop - core 3 - Toplaern\admin - delete user 21 - Copy\Test.Core\bin\Debug\net5.0\Test.Core.runtimeconfig.json
+E:\3. porject\Eshop - core 3 - Toplaern\admin - delete user 21 - Copy\Test.Core\bin\Debug\net5.0\Test.Core.runtimeconfig.dev.json
+E:\3. porject\Eshop - core 3 - Toplaern\admin - delete user 21 - Copy\Test.Core\bin\Debug\net5.0\Test.Core.dll
+E:\3. porject\Eshop - core 3 - Toplaern\admin - delete user 21 - Copy\Test.Core\bin\Debug\net5.0\ref\Test.Core.dll
+E:\3. porject\Eshop - core 3 - Toplaern\admin - delete user 21 - Copy\Test.Core\bin\Debug\net5.0\Test.Core.pdb
+E:\3. porject\Eshop - core 3 - Toplaern\admin - delete user 21 - Copy\Test.Core\bin\Debug\net5.0\Test.DataLayer.dll
+E:\3. porject\Eshop - core 3 - Toplaern\admin - delete user 21 - Copy\Test.Core\bin\Debug\net5.0\Test.DataLayer.pdb
+E:\3. porject\Eshop - core 3 - Toplaern\admin - delete user 21 - Copy\Test.Core\obj\Debug\net5.0\Test.Core.csproj.AssemblyReference.cache
+E:\3. porject\Eshop - core 3 - Toplaern\admin - delete user 21 - Copy\Test.Core\obj\Debug\net5.0\Test.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\3. porject\Eshop - core 3 - Toplaern\admin - delete user 21 - Copy\Test.Core\obj\Debug\net5.0\Test.Core.AssemblyInfoInputs.cache
+E:\3. porject\Eshop - core 3 - Toplaern\admin - delete user 21 - Copy\Test.Core\obj\Debug\net5.0\Test.Core.AssemblyInfo.cs
+E:\3. porject\Eshop - core 3 - Toplaern\admin - delete user 21 - Copy\Test.Core\obj\Debug\net5.0\Test.Core.csproj.CoreCompileInputs.cache
+E:\3. porject\Eshop - core 3 - Toplaern\admin - delete user 21 - Copy\Test.Core\obj\Debug\net5.0\Test.Core.csproj.CopyComplete
+E:\3. porject\Eshop - core 3 - Toplaern\admin - delete user 21 - Copy\Test.Core\obj\Debug\net5.0\Test.Core.dll
+E:\3. porject\Eshop - core 3 - Toplaern\admin - delete user 21 - Copy\Test.Core\obj\Debug\net5.0\ref\Test.Core.dll
+E:\3. porject\Eshop - core 3 - Toplaern\admin - delete user 21 - Copy\Test.Core\obj\Debug\net5.0\Test.Core.pdb
+E:\3. porject\Eshop - core 3 - Toplaern\admin - delete user 21 - Copy\Test.Core\obj\Debug\net5.0\Test.Core.genruntimeconfig.cache
+E:\3. porject\Eshop - core 3 - Toplaern\5.  course - edit  - 30 - Copy\Test.Core\bin\Debug\net5.0\Test.Core.deps.json
+E:\3. porject\Eshop - core 3 - Toplaern\5.  course - edit  - 30 - Copy\Test.Core\bin\Debug\net5.0\Test.Core.runtimeconfig.json
+E:\3. porject\Eshop - core 3 - Toplaern\5.  course - edit  - 30 - Copy\Test.Core\bin\Debug\net5.0\Test.Core.runtimeconfig.dev.json
+E:\3. porject\Eshop - core 3 - Toplaern\5.  course - edit  - 30 - Copy\Test.Core\bin\Debug\net5.0\Test.Core.dll
+E:\3. porject\Eshop - core 3 - Toplaern\5.  course - edit  - 30 - Copy\Test.Core\bin\Debug\net5.0\ref\Test.Core.dll
+E:\3. porject\Eshop - core 3 - Toplaern\5.  course - edit  - 30 - Copy\Test.Core\bin\Debug\net5.0\Test.Core.pdb
+E:\3. porject\Eshop - core 3 - Toplaern\5.  course - edit  - 30 - Copy\Test.Core\bin\Debug\net5.0\Test.DataLayer.dll
+E:\3. porject\Eshop - core 3 - Toplaern\5.  course - edit  - 30 - Copy\Test.Core\bin\Debug\net5.0\Test.DataLayer.pdb
+E:\3. porject\Eshop - core 3 - Toplaern\5.  course - edit  - 30 - Copy\Test.Core\obj\Debug\net5.0\Test.Core.csproj.AssemblyReference.cache
+E:\3. porject\Eshop - core 3 - Toplaern\5.  course - edit  - 30 - Copy\Test.Core\obj\Debug\net5.0\Test.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\3. porject\Eshop - core 3 - Toplaern\5.  course - edit  - 30 - Copy\Test.Core\obj\Debug\net5.0\Test.Core.AssemblyInfoInputs.cache
+E:\3. porject\Eshop - core 3 - Toplaern\5.  course - edit  - 30 - Copy\Test.Core\obj\Debug\net5.0\Test.Core.AssemblyInfo.cs
+E:\3. porject\Eshop - core 3 - Toplaern\5.  course - edit  - 30 - Copy\Test.Core\obj\Debug\net5.0\Test.Core.csproj.CoreCompileInputs.cache
+E:\3. porject\Eshop - core 3 - Toplaern\5.  course - edit  - 30 - Copy\Test.Core\obj\Debug\net5.0\Test.Core.csproj.CopyComplete
+E:\3. porject\Eshop - core 3 - Toplaern\5.  course - edit  - 30 - Copy\Test.Core\obj\Debug\net5.0\Test.Core.dll
+E:\3. porject\Eshop - core 3 - Toplaern\5.  course - edit  - 30 - Copy\Test.Core\obj\Debug\net5.0\ref\Test.Core.dll
+E:\3. porject\Eshop - core 3 - Toplaern\5.  course - edit  - 30 - Copy\Test.Core\obj\Debug\net5.0\Test.Core.pdb
+E:\3. porject\Eshop - core 3 - Toplaern\5.  course - edit  - 30 - Copy\Test.Core\obj\Debug\net5.0\Test.Core.genruntimeconfig.cache
+E:\3. porject\Eshop - core 3 - Toplaern\6. episod - edit create  - 31\Test.Core\bin\Debug\net5.0\Test.Core.deps.json
+E:\3. porject\Eshop - core 3 - Toplaern\6. episod - edit create  - 31\Test.Core\bin\Debug\net5.0\Test.Core.runtimeconfig.json
+E:\3. porject\Eshop - core 3 - Toplaern\6. episod - edit create  - 31\Test.Core\bin\Debug\net5.0\Test.Core.runtimeconfig.dev.json
+E:\3. porject\Eshop - core 3 - Toplaern\6. episod - edit create  - 31\Test.Core\bin\Debug\net5.0\Test.Core.dll
+E:\3. porject\Eshop - core 3 - Toplaern\6. episod - edit create  - 31\Test.Core\bin\Debug\net5.0\ref\Test.Core.dll
+E:\3. porject\Eshop - core 3 - Toplaern\6. episod - edit create  - 31\Test.Core\bin\Debug\net5.0\Test.Core.pdb
+E:\3. porject\Eshop - core 3 - Toplaern\6. episod - edit create  - 31\Test.Core\bin\Debug\net5.0\Test.DataLayer.dll
+E:\3. porject\Eshop - core 3 - Toplaern\6. episod - edit create  - 31\Test.Core\bin\Debug\net5.0\Test.DataLayer.pdb
+E:\3. porject\Eshop - core 3 - Toplaern\6. episod - edit create  - 31\Test.Core\obj\Debug\net5.0\Test.Core.csproj.AssemblyReference.cache
+E:\3. porject\Eshop - core 3 - Toplaern\6. episod - edit create  - 31\Test.Core\obj\Debug\net5.0\Test.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\3. porject\Eshop - core 3 - Toplaern\6. episod - edit create  - 31\Test.Core\obj\Debug\net5.0\Test.Core.AssemblyInfoInputs.cache
+E:\3. porject\Eshop - core 3 - Toplaern\6. episod - edit create  - 31\Test.Core\obj\Debug\net5.0\Test.Core.AssemblyInfo.cs
+E:\3. porject\Eshop - core 3 - Toplaern\6. episod - edit create  - 31\Test.Core\obj\Debug\net5.0\Test.Core.csproj.CoreCompileInputs.cache
+E:\3. porject\Eshop - core 3 - Toplaern\6. episod - edit create  - 31\Test.Core\obj\Debug\net5.0\Test.Core.csproj.CopyComplete
+E:\3. porject\Eshop - core 3 - Toplaern\6. episod - edit create  - 31\Test.Core\obj\Debug\net5.0\Test.Core.dll
+E:\3. porject\Eshop - core 3 - Toplaern\6. episod - edit create  - 31\Test.Core\obj\Debug\net5.0\ref\Test.Core.dll
+E:\3. porject\Eshop - core 3 - Toplaern\6. episod - edit create  - 31\Test.Core\obj\Debug\net5.0\Test.Core.pdb
+E:\3. porject\Eshop - core 3 - Toplaern\6. episod - edit create  - 31\Test.Core\obj\Debug\net5.0\Test.Core.genruntimeconfig.cache
+E:\3. porject\Eshop - core 3 - Toplaern\episod - edit create  - 31 - Copy\Test.Core\bin\Debug\net5.0\Test.Core.deps.json
+E:\3. porject\Eshop - core 3 - Toplaern\episod - edit create  - 31 - Copy\Test.Core\bin\Debug\net5.0\Test.Core.runtimeconfig.json
+E:\3. porject\Eshop - core 3 - Toplaern\episod - edit create  - 31 - Copy\Test.Core\bin\Debug\net5.0\Test.Core.runtimeconfig.dev.json
+E:\3. porject\Eshop - core 3 - Toplaern\episod - edit create  - 31 - Copy\Test.Core\bin\Debug\net5.0\Test.Core.dll
+E:\3. porject\Eshop - core 3 - Toplaern\episod - edit create  - 31 - Copy\Test.Core\bin\Debug\net5.0\ref\Test.Core.dll
+E:\3. porject\Eshop - core 3 - Toplaern\episod - edit create  - 31 - Copy\Test.Core\bin\Debug\net5.0\Test.Core.pdb
+E:\3. porject\Eshop - core 3 - Toplaern\episod - edit create  - 31 - Copy\Test.Core\bin\Debug\net5.0\Test.DataLayer.dll
+E:\3. porject\Eshop - core 3 - Toplaern\episod - edit create  - 31 - Copy\Test.Core\bin\Debug\net5.0\Test.DataLayer.pdb
+E:\3. porject\Eshop - core 3 - Toplaern\episod - edit create  - 31 - Copy\Test.Core\obj\Debug\net5.0\Test.Core.csproj.AssemblyReference.cache
+E:\3. porject\Eshop - core 3 - Toplaern\episod - edit create  - 31 - Copy\Test.Core\obj\Debug\net5.0\Test.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\3. porject\Eshop - core 3 - Toplaern\episod - edit create  - 31 - Copy\Test.Core\obj\Debug\net5.0\Test.Core.AssemblyInfoInputs.cache
+E:\3. porject\Eshop - core 3 - Toplaern\episod - edit create  - 31 - Copy\Test.Core\obj\Debug\net5.0\Test.Core.AssemblyInfo.cs
+E:\3. porject\Eshop - core 3 - Toplaern\episod - edit create  - 31 - Copy\Test.Core\obj\Debug\net5.0\Test.Core.csproj.CoreCompileInputs.cache
+E:\3. porject\Eshop - core 3 - Toplaern\episod - edit create  - 31 - Copy\Test.Core\obj\Debug\net5.0\Test.Core.csproj.CopyComplete
+E:\3. porject\Eshop - core 3 - Toplaern\episod - edit create  - 31 - Copy\Test.Core\obj\Debug\net5.0\Test.Core.dll
+E:\3. porject\Eshop - core 3 - Toplaern\episod - edit create  - 31 - Copy\Test.Core\obj\Debug\net5.0\ref\Test.Core.dll
+E:\3. porject\Eshop - core 3 - Toplaern\episod - edit create  - 31 - Copy\Test.Core\obj\Debug\net5.0\Test.Core.pdb
+E:\3. porject\Eshop - core 3 - Toplaern\episod - edit create  - 31 - Copy\Test.Core\obj\Debug\net5.0\Test.Core.genruntimeconfig.cache
+E:\3. porject\Eshop - core 3 - Toplaern\6. episod - edit create  - 31- main database\Test.Core\bin\Debug\net5.0\Test.Core.deps.json
+E:\3. porject\Eshop - core 3 - Toplaern\6. episod - edit create  - 31- main database\Test.Core\bin\Debug\net5.0\Test.Core.runtimeconfig.json
+E:\3. porject\Eshop - core 3 - Toplaern\6. episod - edit create  - 31- main database\Test.Core\bin\Debug\net5.0\Test.Core.runtimeconfig.dev.json
+E:\3. porject\Eshop - core 3 - Toplaern\6. episod - edit create  - 31- main database\Test.Core\bin\Debug\net5.0\Test.Core.dll
+E:\3. porject\Eshop - core 3 - Toplaern\6. episod - edit create  - 31- main database\Test.Core\bin\Debug\net5.0\ref\Test.Core.dll
+E:\3. porject\Eshop - core 3 - Toplaern\6. episod - edit create  - 31- main database\Test.Core\bin\Debug\net5.0\Test.Core.pdb
+E:\3. porject\Eshop - core 3 - Toplaern\6. episod - edit create  - 31- main database\Test.Core\bin\Debug\net5.0\Test.DataLayer.dll
+E:\3. porject\Eshop - core 3 - Toplaern\6. episod - edit create  - 31- main database\Test.Core\bin\Debug\net5.0\Test.DataLayer.pdb
+E:\3. porject\Eshop - core 3 - Toplaern\6. episod - edit create  - 31- main database\Test.Core\obj\Debug\net5.0\Test.Core.csproj.AssemblyReference.cache
+E:\3. porject\Eshop - core 3 - Toplaern\6. episod - edit create  - 31- main database\Test.Core\obj\Debug\net5.0\Test.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\3. porject\Eshop - core 3 - Toplaern\6. episod - edit create  - 31- main database\Test.Core\obj\Debug\net5.0\Test.Core.AssemblyInfoInputs.cache
+E:\3. porject\Eshop - core 3 - Toplaern\6. episod - edit create  - 31- main database\Test.Core\obj\Debug\net5.0\Test.Core.AssemblyInfo.cs
+E:\3. porject\Eshop - core 3 - Toplaern\6. episod - edit create  - 31- main database\Test.Core\obj\Debug\net5.0\Test.Core.csproj.CoreCompileInputs.cache
+E:\3. porject\Eshop - core 3 - Toplaern\6. episod - edit create  - 31- main database\Test.Core\obj\Debug\net5.0\Test.Core.csproj.CopyComplete
+E:\3. porject\Eshop - core 3 - Toplaern\6. episod - edit create  - 31- main database\Test.Core\obj\Debug\net5.0\Test.Core.dll
+E:\3. porject\Eshop - core 3 - Toplaern\6. episod - edit create  - 31- main database\Test.Core\obj\Debug\net5.0\ref\Test.Core.dll
+E:\3. porject\Eshop - core 3 - Toplaern\6. episod - edit create  - 31- main database\Test.Core\obj\Debug\net5.0\Test.Core.pdb
+E:\3. porject\Eshop - core 3 - Toplaern\6. episod - edit create  - 31- main database\Test.Core\obj\Debug\net5.0\Test.Core.genruntimeconfig.cache
+E:\3. porject\Eshop - core 3 - Toplaern\epizioin 31Copy\Test.Core\bin\Debug\net5.0\Test.Core.deps.json
+E:\3. porject\Eshop - core 3 - Toplaern\epizioin 31Copy\Test.Core\bin\Debug\net5.0\Test.Core.runtimeconfig.json
+E:\3. porject\Eshop - core 3 - Toplaern\epizioin 31Copy\Test.Core\bin\Debug\net5.0\Test.Core.runtimeconfig.dev.json
+E:\3. porject\Eshop - core 3 - Toplaern\epizioin 31Copy\Test.Core\bin\Debug\net5.0\Test.Core.dll
+E:\3. porject\Eshop - core 3 - Toplaern\epizioin 31Copy\Test.Core\bin\Debug\net5.0\ref\Test.Core.dll
+E:\3. porject\Eshop - core 3 - Toplaern\epizioin 31Copy\Test.Core\bin\Debug\net5.0\Test.Core.pdb
+E:\3. porject\Eshop - core 3 - Toplaern\epizioin 31Copy\Test.Core\bin\Debug\net5.0\Test.DataLayer.dll
+E:\3. porject\Eshop - core 3 - Toplaern\epizioin 31Copy\Test.Core\bin\Debug\net5.0\Test.DataLayer.pdb
+E:\3. porject\Eshop - core 3 - Toplaern\epizioin 31Copy\Test.Core\obj\Debug\net5.0\Test.Core.csproj.AssemblyReference.cache
+E:\3. porject\Eshop - core 3 - Toplaern\epizioin 31Copy\Test.Core\obj\Debug\net5.0\Test.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\3. porject\Eshop - core 3 - Toplaern\epizioin 31Copy\Test.Core\obj\Debug\net5.0\Test.Core.AssemblyInfoInputs.cache
+E:\3. porject\Eshop - core 3 - Toplaern\epizioin 31Copy\Test.Core\obj\Debug\net5.0\Test.Core.AssemblyInfo.cs
+E:\3. porject\Eshop - core 3 - Toplaern\epizioin 31Copy\Test.Core\obj\Debug\net5.0\Test.Core.csproj.CoreCompileInputs.cache
+E:\3. porject\Eshop - core 3 - Toplaern\epizioin 31Copy\Test.Core\obj\Debug\net5.0\Test.Core.csproj.CopyComplete
+E:\3. porject\Eshop - core 3 - Toplaern\epizioin 31Copy\Test.Core\obj\Debug\net5.0\Test.Core.dll
+E:\3. porject\Eshop - core 3 - Toplaern\epizioin 31Copy\Test.Core\obj\Debug\net5.0\ref\Test.Core.dll
+E:\3. porject\Eshop - core 3 - Toplaern\epizioin 31Copy\Test.Core\obj\Debug\net5.0\Test.Core.pdb
+E:\3. porject\Eshop - core 3 - Toplaern\epizioin 31Copy\Test.Core\obj\Debug\net5.0\Test.Core.genruntimeconfig.cache
+E:\3. porject\Eshop - core 3 - Toplaern\10. faktor discunt - 37\Test.Core\bin\Debug\net5.0\Test.Core.deps.json
+E:\3. porject\Eshop - core 3 - Toplaern\10. faktor discunt - 37\Test.Core\bin\Debug\net5.0\Test.Core.runtimeconfig.json
+E:\3. porject\Eshop - core 3 - Toplaern\10. faktor discunt - 37\Test.Core\bin\Debug\net5.0\Test.Core.runtimeconfig.dev.json
+E:\3. porject\Eshop - core 3 - Toplaern\10. faktor discunt - 37\Test.Core\bin\Debug\net5.0\Test.Core.dll
+E:\3. porject\Eshop - core 3 - Toplaern\10. faktor discunt - 37\Test.Core\bin\Debug\net5.0\ref\Test.Core.dll
+E:\3. porject\Eshop - core 3 - Toplaern\10. faktor discunt - 37\Test.Core\bin\Debug\net5.0\Test.Core.pdb
+E:\3. porject\Eshop - core 3 - Toplaern\10. faktor discunt - 37\Test.Core\bin\Debug\net5.0\Test.DataLayer.dll
+E:\3. porject\Eshop - core 3 - Toplaern\10. faktor discunt - 37\Test.Core\bin\Debug\net5.0\Test.DataLayer.pdb
+E:\3. porject\Eshop - core 3 - Toplaern\10. faktor discunt - 37\Test.Core\obj\Debug\net5.0\Test.Core.csproj.AssemblyReference.cache
+E:\3. porject\Eshop - core 3 - Toplaern\10. faktor discunt - 37\Test.Core\obj\Debug\net5.0\Test.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\3. porject\Eshop - core 3 - Toplaern\10. faktor discunt - 37\Test.Core\obj\Debug\net5.0\Test.Core.AssemblyInfoInputs.cache
+E:\3. porject\Eshop - core 3 - Toplaern\10. faktor discunt - 37\Test.Core\obj\Debug\net5.0\Test.Core.AssemblyInfo.cs
+E:\3. porject\Eshop - core 3 - Toplaern\10. faktor discunt - 37\Test.Core\obj\Debug\net5.0\Test.Core.csproj.CoreCompileInputs.cache
+E:\3. porject\Eshop - core 3 - Toplaern\10. faktor discunt - 37\Test.Core\obj\Debug\net5.0\Test.Core.csproj.CopyComplete
+E:\3. porject\Eshop - core 3 - Toplaern\10. faktor discunt - 37\Test.Core\obj\Debug\net5.0\Test.Core.dll
+E:\3. porject\Eshop - core 3 - Toplaern\10. faktor discunt - 37\Test.Core\obj\Debug\net5.0\ref\Test.Core.dll
+E:\3. porject\Eshop - core 3 - Toplaern\10. faktor discunt - 37\Test.Core\obj\Debug\net5.0\Test.Core.pdb
+E:\3. porject\Eshop - core 3 - Toplaern\10. faktor discunt - 37\Test.Core\obj\Debug\net5.0\Test.Core.genruntimeconfig.cache
+E:\3. porject\Eshop - core 3 - Toplaern\10. faktor discunt - 37 - Copy\Test.Core\bin\Debug\net5.0\Test.Core.deps.json
+E:\3. porject\Eshop - core 3 - Toplaern\10. faktor discunt - 37 - Copy\Test.Core\bin\Debug\net5.0\Test.Core.runtimeconfig.json
+E:\3. porject\Eshop - core 3 - Toplaern\10. faktor discunt - 37 - Copy\Test.Core\bin\Debug\net5.0\Test.Core.runtimeconfig.dev.json
+E:\3. porject\Eshop - core 3 - Toplaern\10. faktor discunt - 37 - Copy\Test.Core\bin\Debug\net5.0\Test.Core.dll
+E:\3. porject\Eshop - core 3 - Toplaern\10. faktor discunt - 37 - Copy\Test.Core\bin\Debug\net5.0\ref\Test.Core.dll
+E:\3. porject\Eshop - core 3 - Toplaern\10. faktor discunt - 37 - Copy\Test.Core\bin\Debug\net5.0\Test.Core.pdb
+E:\3. porject\Eshop - core 3 - Toplaern\10. faktor discunt - 37 - Copy\Test.Core\bin\Debug\net5.0\Test.DataLayer.dll
+E:\3. porject\Eshop - core 3 - Toplaern\10. faktor discunt - 37 - Copy\Test.Core\bin\Debug\net5.0\Test.DataLayer.pdb
+E:\3. porject\Eshop - core 3 - Toplaern\10. faktor discunt - 37 - Copy\Test.Core\obj\Debug\net5.0\Test.Core.csproj.AssemblyReference.cache
+E:\3. porject\Eshop - core 3 - Toplaern\10. faktor discunt - 37 - Copy\Test.Core\obj\Debug\net5.0\Test.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\3. porject\Eshop - core 3 - Toplaern\10. faktor discunt - 37 - Copy\Test.Core\obj\Debug\net5.0\Test.Core.AssemblyInfoInputs.cache
+E:\3. porject\Eshop - core 3 - Toplaern\10. faktor discunt - 37 - Copy\Test.Core\obj\Debug\net5.0\Test.Core.AssemblyInfo.cs
+E:\3. porject\Eshop - core 3 - Toplaern\10. faktor discunt - 37 - Copy\Test.Core\obj\Debug\net5.0\Test.Core.csproj.CoreCompileInputs.cache
+E:\3. porject\Eshop - core 3 - Toplaern\10. faktor discunt - 37 - Copy\Test.Core\obj\Debug\net5.0\Test.Core.csproj.CopyComplete
+E:\3. porject\Eshop - core 3 - Toplaern\10. faktor discunt - 37 - Copy\Test.Core\obj\Debug\net5.0\Test.Core.dll
+E:\3. porject\Eshop - core 3 - Toplaern\10. faktor discunt - 37 - Copy\Test.Core\obj\Debug\net5.0\ref\Test.Core.dll
+E:\3. porject\Eshop - core 3 - Toplaern\10. faktor discunt - 37 - Copy\Test.Core\obj\Debug\net5.0\Test.Core.pdb
+E:\3. porject\Eshop - core 3 - Toplaern\10. faktor discunt - 37 - Copy\Test.Core\obj\Debug\net5.0\Test.Core.genruntimeconfig.cache
+D:\3. porject\Eshop - core 3 - Toplaern\11.  faktor discunt - 38\Test.Core\bin\Debug\net5.0\Test.Core.deps.json
+D:\3. porject\Eshop - core 3 - Toplaern\11.  faktor discunt - 38\Test.Core\bin\Debug\net5.0\Test.Core.runtimeconfig.json
+D:\3. porject\Eshop - core 3 - Toplaern\11.  faktor discunt - 38\Test.Core\bin\Debug\net5.0\Test.Core.runtimeconfig.dev.json
+D:\3. porject\Eshop - core 3 - Toplaern\11.  faktor discunt - 38\Test.Core\bin\Debug\net5.0\Test.Core.dll
+D:\3. porject\Eshop - core 3 - Toplaern\11.  faktor discunt - 38\Test.Core\bin\Debug\net5.0\ref\Test.Core.dll
+D:\3. porject\Eshop - core 3 - Toplaern\11.  faktor discunt - 38\Test.Core\bin\Debug\net5.0\Test.Core.pdb
+D:\3. porject\Eshop - core 3 - Toplaern\11.  faktor discunt - 38\Test.Core\bin\Debug\net5.0\Test.DataLayer.dll
+D:\3. porject\Eshop - core 3 - Toplaern\11.  faktor discunt - 38\Test.Core\bin\Debug\net5.0\Test.DataLayer.pdb
+D:\3. porject\Eshop - core 3 - Toplaern\11.  faktor discunt - 38\Test.Core\obj\Debug\net5.0\Test.Core.csproj.AssemblyReference.cache
+D:\3. porject\Eshop - core 3 - Toplaern\11.  faktor discunt - 38\Test.Core\obj\Debug\net5.0\Test.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\3. porject\Eshop - core 3 - Toplaern\11.  faktor discunt - 38\Test.Core\obj\Debug\net5.0\Test.Core.AssemblyInfoInputs.cache
+D:\3. porject\Eshop - core 3 - Toplaern\11.  faktor discunt - 38\Test.Core\obj\Debug\net5.0\Test.Core.AssemblyInfo.cs
+D:\3. porject\Eshop - core 3 - Toplaern\11.  faktor discunt - 38\Test.Core\obj\Debug\net5.0\Test.Core.csproj.CoreCompileInputs.cache
+D:\3. porject\Eshop - core 3 - Toplaern\11.  faktor discunt - 38\Test.Core\obj\Debug\net5.0\Test.Core.csproj.CopyComplete
+D:\3. porject\Eshop - core 3 - Toplaern\11.  faktor discunt - 38\Test.Core\obj\Debug\net5.0\Test.Core.dll
+D:\3. porject\Eshop - core 3 - Toplaern\11.  faktor discunt - 38\Test.Core\obj\Debug\net5.0\ref\Test.Core.dll
+D:\3. porject\Eshop - core 3 - Toplaern\11.  faktor discunt - 38\Test.Core\obj\Debug\net5.0\Test.Core.pdb
+D:\3. porject\Eshop - core 3 - Toplaern\11.  faktor discunt - 38\Test.Core\obj\Debug\net5.0\Test.Core.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\Education - core5\Test.Core\bin\Debug\net5.0\Test.Core.deps.json
+C:\Users\User\OneDrive\Desktop\Education - core5\Test.Core\bin\Debug\net5.0\Test.Core.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\Education - core5\Test.Core\bin\Debug\net5.0\Test.Core.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Desktop\Education - core5\Test.Core\bin\Debug\net5.0\Test.Core.dll
+C:\Users\User\OneDrive\Desktop\Education - core5\Test.Core\bin\Debug\net5.0\ref\Test.Core.dll
+C:\Users\User\OneDrive\Desktop\Education - core5\Test.Core\bin\Debug\net5.0\Test.Core.pdb
+C:\Users\User\OneDrive\Desktop\Education - core5\Test.Core\bin\Debug\net5.0\Test.DataLayer.dll
+C:\Users\User\OneDrive\Desktop\Education - core5\Test.Core\bin\Debug\net5.0\Test.DataLayer.pdb
+C:\Users\User\OneDrive\Desktop\Education - core5\Test.Core\obj\Debug\net5.0\Test.Core.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\Education - core5\Test.Core\obj\Debug\net5.0\Test.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\Education - core5\Test.Core\obj\Debug\net5.0\Test.Core.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\Education - core5\Test.Core\obj\Debug\net5.0\Test.Core.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\Education - core5\Test.Core\obj\Debug\net5.0\Test.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Education - core5\Test.Core\obj\Debug\net5.0\Test.Core.csproj.CopyComplete
+C:\Users\User\OneDrive\Desktop\Education - core5\Test.Core\obj\Debug\net5.0\Test.Core.dll
+C:\Users\User\OneDrive\Desktop\Education - core5\Test.Core\obj\Debug\net5.0\ref\Test.Core.dll
+C:\Users\User\OneDrive\Desktop\Education - core5\Test.Core\obj\Debug\net5.0\Test.Core.pdb
+C:\Users\User\OneDrive\Desktop\Education - core5\Test.Core\obj\Debug\net5.0\Test.Core.genruntimeconfig.cache
+D:\2. main project\Education - core5\Test.Core\bin\Debug\net5.0\Test.Core.deps.json
+D:\2. main project\Education - core5\Test.Core\bin\Debug\net5.0\Test.Core.runtimeconfig.json
+D:\2. main project\Education - core5\Test.Core\bin\Debug\net5.0\Test.Core.runtimeconfig.dev.json
+D:\2. main project\Education - core5\Test.Core\bin\Debug\net5.0\Test.Core.dll
+D:\2. main project\Education - core5\Test.Core\bin\Debug\net5.0\ref\Test.Core.dll
+D:\2. main project\Education - core5\Test.Core\bin\Debug\net5.0\Test.Core.pdb
+D:\2. main project\Education - core5\Test.Core\bin\Debug\net5.0\Test.DataLayer.dll
+D:\2. main project\Education - core5\Test.Core\bin\Debug\net5.0\Test.DataLayer.pdb
+D:\2. main project\Education - core5\Test.Core\obj\Debug\net5.0\Test.Core.csproj.AssemblyReference.cache
+D:\2. main project\Education - core5\Test.Core\obj\Debug\net5.0\Test.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\2. main project\Education - core5\Test.Core\obj\Debug\net5.0\Test.Core.AssemblyInfoInputs.cache
+D:\2. main project\Education - core5\Test.Core\obj\Debug\net5.0\Test.Core.AssemblyInfo.cs
+D:\2. main project\Education - core5\Test.Core\obj\Debug\net5.0\Test.Core.csproj.CoreCompileInputs.cache
+D:\2. main project\Education - core5\Test.Core\obj\Debug\net5.0\Test.Core.csproj.CopyComplete
+D:\2. main project\Education - core5\Test.Core\obj\Debug\net5.0\Test.Core.dll
+D:\2. main project\Education - core5\Test.Core\obj\Debug\net5.0\ref\Test.Core.dll
+D:\2. main project\Education - core5\Test.Core\obj\Debug\net5.0\Test.Core.pdb
+D:\2. main project\Education - core5\Test.Core\obj\Debug\net5.0\Test.Core.genruntimeconfig.cache
+D:\Education - core5\Test.Core\bin\Debug\net5.0\Test.Core.deps.json
+D:\Education - core5\Test.Core\bin\Debug\net5.0\Test.Core.runtimeconfig.json
+D:\Education - core5\Test.Core\bin\Debug\net5.0\Test.Core.runtimeconfig.dev.json
+D:\Education - core5\Test.Core\bin\Debug\net5.0\Test.Core.dll
+D:\Education - core5\Test.Core\bin\Debug\net5.0\ref\Test.Core.dll
+D:\Education - core5\Test.Core\bin\Debug\net5.0\Test.Core.pdb
+D:\Education - core5\Test.Core\bin\Debug\net5.0\Test.DataLayer.dll
+D:\Education - core5\Test.Core\bin\Debug\net5.0\Test.DataLayer.pdb
+D:\Education - core5\Test.Core\obj\Debug\net5.0\Test.Core.csproj.AssemblyReference.cache
+D:\Education - core5\Test.Core\obj\Debug\net5.0\Test.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education - core5\Test.Core\obj\Debug\net5.0\Test.Core.AssemblyInfoInputs.cache
+D:\Education - core5\Test.Core\obj\Debug\net5.0\Test.Core.AssemblyInfo.cs
+D:\Education - core5\Test.Core\obj\Debug\net5.0\Test.Core.csproj.CoreCompileInputs.cache
+D:\Education - core5\Test.Core\obj\Debug\net5.0\Test.Core.csproj.CopyComplete
+D:\Education - core5\Test.Core\obj\Debug\net5.0\Test.Core.dll
+D:\Education - core5\Test.Core\obj\Debug\net5.0\ref\Test.Core.dll
+D:\Education - core5\Test.Core\obj\Debug\net5.0\Test.Core.pdb
+D:\Education - core5\Test.Core\obj\Debug\net5.0\Test.Core.genruntimeconfig.cache
+D:\3. porject\hashemi\Education - core5\Test.Core\bin\Debug\net5.0\Test.Core.deps.json
+D:\3. porject\hashemi\Education - core5\Test.Core\bin\Debug\net5.0\Test.Core.runtimeconfig.json
+D:\3. porject\hashemi\Education - core5\Test.Core\bin\Debug\net5.0\Test.Core.runtimeconfig.dev.json
+D:\3. porject\hashemi\Education - core5\Test.Core\bin\Debug\net5.0\Test.Core.dll
+D:\3. porject\hashemi\Education - core5\Test.Core\bin\Debug\net5.0\ref\Test.Core.dll
+D:\3. porject\hashemi\Education - core5\Test.Core\bin\Debug\net5.0\Test.Core.pdb
+D:\3. porject\hashemi\Education - core5\Test.Core\bin\Debug\net5.0\Test.DataLayer.dll
+D:\3. porject\hashemi\Education - core5\Test.Core\bin\Debug\net5.0\Test.DataLayer.pdb
+D:\3. porject\hashemi\Education - core5\Test.Core\obj\Debug\net5.0\Test.Core.csproj.AssemblyReference.cache
+D:\3. porject\hashemi\Education - core5\Test.Core\obj\Debug\net5.0\Test.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\3. porject\hashemi\Education - core5\Test.Core\obj\Debug\net5.0\Test.Core.AssemblyInfoInputs.cache
+D:\3. porject\hashemi\Education - core5\Test.Core\obj\Debug\net5.0\Test.Core.AssemblyInfo.cs
+D:\3. porject\hashemi\Education - core5\Test.Core\obj\Debug\net5.0\Test.Core.csproj.CoreCompileInputs.cache
+D:\3. porject\hashemi\Education - core5\Test.Core\obj\Debug\net5.0\Test.Core.csproj.CopyComplete
+D:\3. porject\hashemi\Education - core5\Test.Core\obj\Debug\net5.0\Test.Core.dll
+D:\3. porject\hashemi\Education - core5\Test.Core\obj\Debug\net5.0\ref\Test.Core.dll
+D:\3. porject\hashemi\Education - core5\Test.Core\obj\Debug\net5.0\Test.Core.pdb
+D:\3. porject\hashemi\Education - core5\Test.Core\obj\Debug\net5.0\Test.Core.genruntimeconfig.cache

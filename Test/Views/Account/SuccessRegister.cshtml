@@ -1,0 +1,28 @@
+﻿@model Test.DataLayer.Entities.User.User
+
+@{
+    ViewData["Title"] = "پایان ثبت نام";
+}
+
+<nav aria-label="breadcrumb">
+    <ul class="breadcrumb">
+        <li class="breadcrumb-item"><a href="/">تاپ لرن</a></li>
+        <li class="breadcrumb-item active" aria-current="page">پایان ثبت نام</li>
+    </ul>
+</nav>
+
+<div class="container">
+    <div class="alert alert-success">
+        <h2>@Model.UserName عزیز !</h2>
+        <p>ثبت نام شما انجام شد ، ایمیلی حاوی لینک فعالسازی به ایمیمل "@Model.Email" ارسال شد .</p>
+        <p>جهت ادامه ثبت نام وارد ایمیل خود شوید و روی لینک کلیک کنید .</p>
+    </div>
+</div>
+
+@section Scripts{
+    <script>
+    setTimeout(function () {
+       window.location.href = "https://localhost:5001"; //will redirect to your blog page (an ex: blog.html)
+    }, 4000);
+    </script>
+}

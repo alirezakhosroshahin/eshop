@@ -1,0 +1,48 @@
+@page
+@model Test.Pages.Admin.CourseGroup.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.CourseGroup[0].GroupTitle)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CourseGroup[0].IsDelete)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CourseGroup[0].Parent)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.CourseGroup) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.GroupTitle)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IsDelete)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Parent.GroupTitle)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.GroupId">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.GroupId">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.GroupId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
