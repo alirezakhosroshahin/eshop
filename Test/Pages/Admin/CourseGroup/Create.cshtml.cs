@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -21,7 +21,20 @@ namespace Test.Pages.Admin.CourseGroup
 
         public IActionResult OnGet()
         {
-        ViewData["ParentId"] = new SelectList(_context.CourseGroups, "GroupId", "GroupTitle");
+            List<SelectListItem> list = new List<SelectListItem>()
+        {
+            new SelectListItem() {Text = "انتخاب کنید ...", Value = ""}
+        };
+
+
+            list.AddRange(_context.CourseGroups.Where(p => p.ParentId == null)
+            .Select(r =>
+                new SelectListItem()
+                {
+                    Text = r.GroupTitle,
+                    Value = r.GroupId.ToString()
+                }).ToList());
+            ViewData["ParentId"] = list;
             return Page();
         }
 
