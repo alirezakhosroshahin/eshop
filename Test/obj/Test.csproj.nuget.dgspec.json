@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\3. porject\\hashemi\\Education - core5\\Test\\Test.csproj": {}
+    "D:\\Projects\\Eshop\\Test\\Test.csproj": {}
   },
   "projects": {
-    "D:\\3. porject\\hashemi\\Education - core5\\Test.Core\\Test.Core.csproj": {
+    "D:\\Projects\\Eshop\\Test.Core\\Test.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\3. porject\\hashemi\\Education - core5\\Test.Core\\Test.Core.csproj",
+        "projectUniqueName": "D:\\Projects\\Eshop\\Test.Core\\Test.Core.csproj",
         "projectName": "Test.Core",
-        "projectPath": "D:\\3. porject\\hashemi\\Education - core5\\Test.Core\\Test.Core.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\3. porject\\hashemi\\Education - core5\\Test.Core\\obj\\",
+        "projectPath": "D:\\Projects\\Eshop\\Test.Core\\Test.Core.csproj",
+        "packagesPath": "C:\\Users\\Morteza\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\Eshop\\Test.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Morteza\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -31,8 +31,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\3. porject\\hashemi\\Education - core5\\Test.DataLayer\\Test.DataLayer.csproj": {
-                "projectPath": "D:\\3. porject\\hashemi\\Education - core5\\Test.DataLayer\\Test.DataLayer.csproj"
+              "D:\\Projects\\Eshop\\Test.DataLayer\\Test.DataLayer.csproj": {
+                "projectPath": "D:\\Projects\\Eshop\\Test.DataLayer\\Test.DataLayer.csproj"
               }
             }
           }
@@ -97,20 +97,20 @@
         }
       }
     },
-    "D:\\3. porject\\hashemi\\Education - core5\\Test.DataLayer\\Test.DataLayer.csproj": {
+    "D:\\Projects\\Eshop\\Test.DataLayer\\Test.DataLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\3. porject\\hashemi\\Education - core5\\Test.DataLayer\\Test.DataLayer.csproj",
+        "projectUniqueName": "D:\\Projects\\Eshop\\Test.DataLayer\\Test.DataLayer.csproj",
         "projectName": "Test.DataLayer",
-        "projectPath": "D:\\3. porject\\hashemi\\Education - core5\\Test.DataLayer\\Test.DataLayer.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\3. porject\\hashemi\\Education - core5\\Test.DataLayer\\obj\\",
+        "projectPath": "D:\\Projects\\Eshop\\Test.DataLayer\\Test.DataLayer.csproj",
+        "packagesPath": "C:\\Users\\Morteza\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\Eshop\\Test.DataLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Morteza\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -182,20 +182,20 @@
         }
       }
     },
-    "D:\\3. porject\\hashemi\\Education - core5\\Test\\Test.csproj": {
+    "D:\\Projects\\Eshop\\Test\\Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\3. porject\\hashemi\\Education - core5\\Test\\Test.csproj",
+        "projectUniqueName": "D:\\Projects\\Eshop\\Test\\Test.csproj",
         "projectName": "Test",
-        "projectPath": "D:\\3. porject\\hashemi\\Education - core5\\Test\\Test.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\3. porject\\hashemi\\Education - core5\\Test\\obj\\",
+        "projectPath": "D:\\Projects\\Eshop\\Test\\Test.csproj",
+        "packagesPath": "C:\\Users\\Morteza\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\Eshop\\Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Morteza\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -209,11 +209,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\3. porject\\hashemi\\Education - core5\\Test.Core\\Test.Core.csproj": {
-                "projectPath": "D:\\3. porject\\hashemi\\Education - core5\\Test.Core\\Test.Core.csproj"
+              "D:\\Projects\\Eshop\\Test.Core\\Test.Core.csproj": {
+                "projectPath": "D:\\Projects\\Eshop\\Test.Core\\Test.Core.csproj"
               },
-              "D:\\3. porject\\hashemi\\Education - core5\\Test.DataLayer\\Test.DataLayer.csproj": {
-                "projectPath": "D:\\3. porject\\hashemi\\Education - core5\\Test.DataLayer\\Test.DataLayer.csproj"
+              "D:\\Projects\\Eshop\\Test.DataLayer\\Test.DataLayer.csproj": {
+                "projectPath": "D:\\Projects\\Eshop\\Test.DataLayer\\Test.DataLayer.csproj"
               }
             }
           }

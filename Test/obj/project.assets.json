@@ -12045,23 +12045,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {},
+    "C:\\Users\\Morteza\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\3. porject\\hashemi\\Education - core5\\Test\\Test.csproj",
+      "projectUniqueName": "D:\\Projects\\Eshop\\Test\\Test.csproj",
       "projectName": "Test",
-      "projectPath": "D:\\3. porject\\hashemi\\Education - core5\\Test\\Test.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\3. porject\\hashemi\\Education - core5\\Test\\obj\\",
+      "projectPath": "D:\\Projects\\Eshop\\Test\\Test.csproj",
+      "packagesPath": "C:\\Users\\Morteza\\.nuget\\packages\\",
+      "outputPath": "D:\\Projects\\Eshop\\Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Morteza\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -12075,11 +12075,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\3. porject\\hashemi\\Education - core5\\Test.Core\\Test.Core.csproj": {
-              "projectPath": "D:\\3. porject\\hashemi\\Education - core5\\Test.Core\\Test.Core.csproj"
+            "D:\\Projects\\Eshop\\Test.Core\\Test.Core.csproj": {
+              "projectPath": "D:\\Projects\\Eshop\\Test.Core\\Test.Core.csproj"
             },
-            "D:\\3. porject\\hashemi\\Education - core5\\Test.DataLayer\\Test.DataLayer.csproj": {
-              "projectPath": "D:\\3. porject\\hashemi\\Education - core5\\Test.DataLayer\\Test.DataLayer.csproj"
+            "D:\\Projects\\Eshop\\Test.DataLayer\\Test.DataLayer.csproj": {
+              "projectPath": "D:\\Projects\\Eshop\\Test.DataLayer\\Test.DataLayer.csproj"
             }
           }
         }

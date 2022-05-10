@@ -283,3 +283,21 @@ D:\3. porject\hashemi\Education - core5\Test.Core\obj\Debug\net5.0\Test.Core.dll
 D:\3. porject\hashemi\Education - core5\Test.Core\obj\Debug\net5.0\ref\Test.Core.dll
 D:\3. porject\hashemi\Education - core5\Test.Core\obj\Debug\net5.0\Test.Core.pdb
 D:\3. porject\hashemi\Education - core5\Test.Core\obj\Debug\net5.0\Test.Core.genruntimeconfig.cache
+D:\Projects\Eshop\Test.Core\bin\Debug\net5.0\Test.Core.deps.json
+D:\Projects\Eshop\Test.Core\bin\Debug\net5.0\Test.Core.runtimeconfig.json
+D:\Projects\Eshop\Test.Core\bin\Debug\net5.0\Test.Core.runtimeconfig.dev.json
+D:\Projects\Eshop\Test.Core\bin\Debug\net5.0\Test.Core.dll
+D:\Projects\Eshop\Test.Core\bin\Debug\net5.0\Test.Core.pdb
+D:\Projects\Eshop\Test.Core\bin\Debug\net5.0\Test.DataLayer.dll
+D:\Projects\Eshop\Test.Core\bin\Debug\net5.0\Test.DataLayer.pdb
+D:\Projects\Eshop\Test.Core\obj\Debug\net5.0\Test.Core.csproj.AssemblyReference.cache
+D:\Projects\Eshop\Test.Core\obj\Debug\net5.0\Test.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Eshop\Test.Core\obj\Debug\net5.0\Test.Core.AssemblyInfoInputs.cache
+D:\Projects\Eshop\Test.Core\obj\Debug\net5.0\Test.Core.AssemblyInfo.cs
+D:\Projects\Eshop\Test.Core\obj\Debug\net5.0\Test.Core.csproj.CoreCompileInputs.cache
+D:\Projects\Eshop\Test.Core\obj\Debug\net5.0\Test.Core.csproj.CopyComplete
+D:\Projects\Eshop\Test.Core\obj\Debug\net5.0\Test.Core.dll
+D:\Projects\Eshop\Test.Core\obj\Debug\net5.0\refint\Test.Core.dll
+D:\Projects\Eshop\Test.Core\obj\Debug\net5.0\Test.Core.pdb
+D:\Projects\Eshop\Test.Core\obj\Debug\net5.0\Test.Core.genruntimeconfig.cache
+D:\Projects\Eshop\Test.Core\obj\Debug\net5.0\ref\Test.Core.dll

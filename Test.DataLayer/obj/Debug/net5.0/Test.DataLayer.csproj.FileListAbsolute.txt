@@ -251,3 +251,18 @@ D:\3. porject\hashemi\Education - core5\Test.DataLayer\obj\Debug\net5.0\Test.Dat
 D:\3. porject\hashemi\Education - core5\Test.DataLayer\obj\Debug\net5.0\ref\Test.DataLayer.dll
 D:\3. porject\hashemi\Education - core5\Test.DataLayer\obj\Debug\net5.0\Test.DataLayer.pdb
 D:\3. porject\hashemi\Education - core5\Test.DataLayer\obj\Debug\net5.0\Test.DataLayer.genruntimeconfig.cache
+D:\Projects\Eshop\Test.DataLayer\bin\Debug\net5.0\Test.DataLayer.deps.json
+D:\Projects\Eshop\Test.DataLayer\bin\Debug\net5.0\Test.DataLayer.runtimeconfig.json
+D:\Projects\Eshop\Test.DataLayer\bin\Debug\net5.0\Test.DataLayer.runtimeconfig.dev.json
+D:\Projects\Eshop\Test.DataLayer\bin\Debug\net5.0\Test.DataLayer.dll
+D:\Projects\Eshop\Test.DataLayer\bin\Debug\net5.0\Test.DataLayer.pdb
+D:\Projects\Eshop\Test.DataLayer\obj\Debug\net5.0\Test.DataLayer.csproj.AssemblyReference.cache
+D:\Projects\Eshop\Test.DataLayer\obj\Debug\net5.0\Test.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Eshop\Test.DataLayer\obj\Debug\net5.0\Test.DataLayer.AssemblyInfoInputs.cache
+D:\Projects\Eshop\Test.DataLayer\obj\Debug\net5.0\Test.DataLayer.AssemblyInfo.cs
+D:\Projects\Eshop\Test.DataLayer\obj\Debug\net5.0\Test.DataLayer.csproj.CoreCompileInputs.cache
+D:\Projects\Eshop\Test.DataLayer\obj\Debug\net5.0\Test.DataLayer.dll
+D:\Projects\Eshop\Test.DataLayer\obj\Debug\net5.0\refint\Test.DataLayer.dll
+D:\Projects\Eshop\Test.DataLayer\obj\Debug\net5.0\Test.DataLayer.pdb
+D:\Projects\Eshop\Test.DataLayer\obj\Debug\net5.0\Test.DataLayer.genruntimeconfig.cache
+D:\Projects\Eshop\Test.DataLayer\obj\Debug\net5.0\ref\Test.DataLayer.dll
